@@ -31,6 +31,8 @@ rock-paper-scissors/
 * Template literals
 * Writing reusable functions
 * Game logic implementation
+* Objects and local Storage
+* Document Object Model
 
 ## Future Improvements
 
